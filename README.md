@@ -90,7 +90,7 @@ The generated dataset contains:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/nikhilkumar210h-debug/web-scraping-companies.git
+git clone https://github.com/nikhilkumar210h-debug/web-scraping-Top-Indian-companies.git
 ```
 
 ### Install Dependencies
