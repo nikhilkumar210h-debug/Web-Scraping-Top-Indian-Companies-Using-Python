@@ -90,7 +90,7 @@ The generated dataset contains:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/nikhilkumar210h-debug/Web-Scraping-Top-Indian-Companies.git
+git clone https://github.com/nikhilkumar210h-debug/Web-Scraping-Top-Indian-Companies-Using-Python.git
 ```
 
 ### Install Dependencies
@@ -102,7 +102,7 @@ pip install pandas requests beautifulsoup4 lxml
 ### Run Jupyter Notebook
 
 ```bash
-jupyter notebook
+web_scraping
 ```
 
 Open:
